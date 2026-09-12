@@ -1,0 +1,7 @@
+{
+  "name": "MediRemind",
+  "description": "Medicine reminder app with parent and child accounts, schedules, dose tracking, and adherence monitoring",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
